@@ -1,0 +1,38 @@
+{
+    "categories": [
+      {
+        "name": "Fashion",
+        "subcategories": [
+          {
+            "name": "Men",
+            "subcategories": [
+              { "name": "Ethnic Wear" },
+              { "name": "Western Wear" }
+            ]
+          },
+          {
+            "name": "Women",
+            "subcategories": [
+              { "name": "Ethnic Wear" },
+              { "name": "Western Wear" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Electronics",
+        "subcategories": [
+          { "name": "Mobiles" },
+          { "name": "Laptops" }
+        ]
+      },
+      {
+        "name": "Home & Furniture",
+        "subcategories": [
+          { "name": "Kitchen" },
+          { "name": "Living Room" }
+        ]
+      }
+    ]
+  }
+  
